@@ -7,8 +7,8 @@ end
 
 def menu
   puts 'Menu'.colorize(:red)
-  puts '1: Enter git command'.colorize(:red)
-  puts '2: Exit'.colorize(:red)
+  puts '1. Enter git command'.colorize(:red)
+  puts '2. Exit'.colorize(:red)
   choice = gets.to_i
   case choice
   when 1
