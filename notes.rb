@@ -60,7 +60,7 @@ git add .
 git commit -m ''
 repeat this step
 
-
+vimtutor - tutorial
 git commit 
 VIM - editor in the term
 1 command
@@ -74,6 +74,7 @@ i
 esc out of insert mode into command 
 
 :wq
+:q!
 - resolving conflict 
 
 git commit --amend 
